@@ -1,13 +1,21 @@
 # MALINA
 
-**Curated gift-bundle boutique for the Israeli woman.**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-Hand-curated mar'azim (gift boxes) for Valentine's Day, Tu B'Av, Women's Day, Mother's Day, birthdays, and self-care — every box hand-packed by Michelle with a handwritten card, no price tag, free shipping over ₪249, 30-day free returns.
+## 🌐 Live Site
 
-🔗 **Live site:** [https://malina-pi.vercel.app/](https://malina-pi.vercel.app/)
-
-Categories: כל המארזים · יום האהבה · ט״ו באב · יום האישה · יום הולדת · יום האם · ספא ופינוק · לחברה.
+### → [**malina-pi.vercel.app**](https://malina-pi.vercel.app/)
 
 ---
 
-_Hebrew RTL site. The source code lives in a private repository._
+## Contact
+
+- **GitHub:** [@ArielShemesh1999](https://github.com/ArielShemesh1999)
+- **LinkedIn:** [Ariel Shemesh](https://www.linkedin.com/in/ariel-shemesh/)
+
+---
+
+© 2026 MALINA / Ariel Shemesh — All Rights Reserved.
